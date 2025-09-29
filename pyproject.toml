@@ -1,0 +1,9 @@
+[project]
+name = "hugz"
+version = "0.1.0"
+description = "hugz is a local LLM agent"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ollama>=0.6.0",
+]
